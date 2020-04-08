@@ -189,9 +189,9 @@ void Widget::closeEvent( QCloseEvent *event )
 void Widget::on_DrawingClicked_clicked()
 {
     /*
-     * @Author:王涛
+     * @Author:涛
      * @Time:2019-04-25 PM 21：13
-     * @Place:东6 435
+     * @Place:435
      * @功能：
      * 当点击窗口时候：
      * 绘制一个窗口专门用于做图使用，
